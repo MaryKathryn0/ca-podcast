@@ -39,7 +39,7 @@ a {
     font-size: 20px;
 }
 .card-img-top {
-    float: left;
+    float: top;
     height: 300px;
     object-fit: cover;
 }
