@@ -1,6 +1,13 @@
 
+html {
+    height: 100%;
+}
 body {
     background-image: linear-gradient(lightgoldenrodyellow, darkred); 
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 .nav {
     background-color: transparent;
@@ -11,7 +18,9 @@ body {
     background-color: rgb(221, 197, 153);
     color: black;
 }
-
+.cardcont {
+    margin: 20px;
+}
 .sceneCard {
     background-color: rgb(221, 197, 153);
     color: black;
