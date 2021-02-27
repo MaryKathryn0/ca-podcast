@@ -1,33 +1,33 @@
 
 body {
-    background-color: aliceblue;
+    background-color: lightgoldenrodyellow;
 }
 .nav {
-    background-color: aliceblue;
-    color: black;
-    font-size: 16px;
+    background-color: lightgoldenrodyellow;
+    margin-bottom: 20px;
 }
 
 .cast {
-    background-color: lightskyblue;
+    background-color: rgb(221, 197, 153);
     color: black;
 }
 
 .sceneCard {
-    background-color: lightgreen;
+    background-color: rgb(221, 197, 153);
     color: black;
 }
 
 .fandfCard {
-    background-color: lightgrey;
+    background-color: rgb(221, 197, 153);
     color: black;
 }
 .meridCard {
-    background-color:lightsteelblue;
+    background-color:rgb(221, 197, 153);
     color: black;
 }
 h1 {
     text-align: center;
+    font-family: 'Coda Caption', sans-serif;
 }
 h2 {
     text-align: center;
