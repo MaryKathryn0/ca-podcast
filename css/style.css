@@ -3,7 +3,7 @@ html {
     height: 100%;
 }
 body {
-    background-image: linear-gradient( darkgray,rgb(19, 19, 48), rgb(90, 1, 1), lightgoldenrodyellow); 
+    background-color: black;
     height: 100%;
     margin: 0;
     background-repeat: no-repeat;
@@ -14,39 +14,61 @@ body {
     margin-bottom: 25px;
     font-family: 'Noto Sans JP', sans-serif;
 }
+#intro {
+    color:black;
+}
+.nav-link {
+    color:whitesmoke;
+}
 
-.cast {
-    background-color: rgb(221, 197, 153);
+#homeTitle {
     color: black;
+}
+.cast {
+    background-color: lightgray;
+    color: black;
+}
+#castBTN {
+    background-color: darkslategrey;
+    color:mintcream;
+    border-color: dimgrey;
 }
 .cardcont {
     margin: 20px;
 }
 .sceneCard {
-    background-color: rgb(221, 197, 153);
+    background-color: lightgray;
     color: black;
 }
 
+#phonebreak {
+    font-weight: bold;
+}
+#timeline {
+    color: black;
+    margin-bottom: 25px;
+}
 .fandfCard {
-    background-color: rgb(221, 197, 153);
+    background-color: lightgray;
     color: black;
 }
 .meridCard {
-    background-color:rgb(221, 197, 153);
+    background-color:lightgray;
     color: black;
 }
 h1 {
     text-align: center;
-    font-family: 'Coda Caption', sans-serif;
-    color: rgb(14, 13, 13)
+    font-family: 'Chivo', sans-serif;
+    color: whitesmoke;
+    font-size: 45px;
 }
 h2 {
     text-align: center;
-    font-family: 'Coda Caption', sans-serif;
-    color: rgb(14, 13, 13)
+    font-family: 'Chivo', sans-serif;
+    color: whitesmoke;
 }
 a {
-    color: black;
+    color: whitesmoke;
     text-decoration: none;
     background-color: transparent;
     font-size: 20px;
